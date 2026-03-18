@@ -2,4 +2,6 @@ Fiz totalmente usando o W3Space, o máximo q eu precisei pesquisar foi pra criar
 
 mentira, eu pesquisei um offwhite bonitinho.
 
+o Hover está no link.
+
 a principio eu ia colocar um topnav pra adicionar vários itens mas acho que ia ser mt esforço desnecessário, considerando que tem um projeto pra ser feito.
