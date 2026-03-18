@@ -13,6 +13,9 @@ header{
 }
 
 h1 {
+
+    font-style: initial;
+    font-variant: small-caps;
     text-align: center;
     color: #970f0f;
     font-size: 50px;
@@ -20,8 +23,10 @@ h1 {
 }
 
 a {
+    font-style: initial ;
+    font-variant: small-caps;
     display: block;
-    color: #333;
+    color: #970f0f;
     font-size: 25px;
 }
 
@@ -35,6 +40,13 @@ p {
     text-align: center;
   font-family: verdana;
   font-size: 20px;
+    margin-left: 90px;
+    text-align: center;
+    align-items: center;
+    width: 1100px;
+    height: 40px;
+  border: 2px solid rgb(105, 5, 5);
+  border-radius: 5px;  
 }
 
 ul {
@@ -45,34 +57,4 @@ ul {
     color: #252525;
 }
 
-p {
-    margin-left: 90px;
-    text-align: center;
-    align-items: center;
-    width: 1100px;
-    height: 40px;
-  border: 2px solid rgb(105, 5, 5);
-  border-radius: 5px;
-}
 
-ul.nav {
-  display: flex;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  background-color: #333333;
-}
-
-/* Style links in topnav */
-ul.nav li a {
-  display: block;
-  color: #f1f1f1;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-/* Change color on hover */
-ul.nav li a:hover {
-  background-color: #dddddd;
-  color: black;
-}
