@@ -23,6 +23,7 @@ h1 {
 }
 
 a {
+    text-align: center;
     font-style: initial ;
     font-variant: small-caps;
     display: block;
@@ -57,4 +58,17 @@ ul {
     color: #252525;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:hover {
+    text-align: center;
+    color: rgb(121, 122, 190);
+    text-decoration: underline;
+    transform: scale(1.01);
+    transition: 0.3s;
+}
 
