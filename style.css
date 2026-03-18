@@ -23,6 +23,7 @@ h1 {
 }
 
 a {
+    text-align: center;
     font-style: initial ;
     font-variant: small-caps;
     display: block;
@@ -38,15 +39,15 @@ h2{
 
 p {
     text-align: center;
-  font-family: verdana;
-  font-size: 20px;
+    font-family: verdana;
+    font-size: 20px;
     margin-left: 90px;
     text-align: center;
     align-items: center;
     width: 1100px;
     height: 40px;
-  border: 2px solid rgb(105, 5, 5);
-  border-radius: 5px;  
+    border: 2px solid rgb(105, 5, 5);
+    border-radius: 5px;  
 }
 
 ul {
@@ -57,4 +58,17 @@ ul {
     color: #252525;
 }
 
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+}
 
+a:hover {
+  background-color: #fcdede;
+  transform: scale(1.1);
+  transition: 0.3s;  
+  color: #fc4c4c;
+  text-decoration: underline;
+}
