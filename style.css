@@ -68,7 +68,7 @@ a:hover {
     text-align: center;
     color: rgb(121, 122, 190);
     text-decoration: underline;
-    transform: scale(1.01);
+    transform: scale(1.1);
     transition: 0.3s;
 }
 
